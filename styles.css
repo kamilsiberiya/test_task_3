@@ -1,0 +1,13 @@
+.Field{
+display: -webkit-flex;
+display: flex;
+height: 330px;
+width: 340px;
+flex-wrap: wrap;
+}
+.Field__Cell{
+  -webkit-flex-basis: 25px;
+  flex-basis: 70px;
+
+  border: 0.02px solid black;
+}
